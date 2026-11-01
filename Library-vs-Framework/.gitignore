@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+dist/
+.npm/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# PHP
+/vendor/
+.phpunit.cache/
+
+# Java
+*.class
+target/
+.gradle/
+build/
+
+# .NET
+bin/
+obj/
+*.user
+*.suo/
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
